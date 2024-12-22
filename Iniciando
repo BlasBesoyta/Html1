@@ -7,5 +7,7 @@
     </head>
     <body>
         <h1>Hola mundo <i>virtual</i></h1>
+        <h2> Para ir a mi github:</h2>
+        <a href="https://github.com/BlasBesoyta">Click aqui</a>
     </body>
 </html>
